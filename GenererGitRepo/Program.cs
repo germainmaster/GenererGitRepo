@@ -10,7 +10,7 @@ namespace GenererGitRepo
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Un commit plus");
         }
     }
 }
